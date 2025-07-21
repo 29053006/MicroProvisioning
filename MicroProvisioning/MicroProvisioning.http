@@ -1,0 +1,6 @@
+@MicroProvisioning_HostAddress = http://localhost:5145
+
+GET {{MicroProvisioning_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
